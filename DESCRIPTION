@@ -1,0 +1,19 @@
+Package: ohwhaley
+Type: Package
+Title: Write a cute message
+Version: 0.0.0.9000
+Author: Person(given = "yixin",
+               family = "Kang",
+               role = c("aut","cre"),
+               email = "yixin.kang1@students.mq.edu.au")
+Maintainer: The package maintainer <yourself@somewhere.net>
+Description: Write a cute message by a whale.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.1
+Imports: 
+    magrittr
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
